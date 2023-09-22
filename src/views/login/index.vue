@@ -183,7 +183,7 @@ export default {
     //     const code = getQueryObject(e.newValue)
     //     const codeMap = {
     //       wechat: 'code',
-    //       tencent: 'code'
+    //       tencent: 'code111'
     //     }
     //     const type = codeMap[this.auth_type]
     //     const codeName = code[type]
