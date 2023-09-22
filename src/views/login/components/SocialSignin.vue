@@ -39,7 +39,7 @@ export default {
 
 <style lang="scss" scoped>
   .social-signup-container {
-    margin: 20px 0;
+    margin: 21px 0;
     .sign-btn {
       display: inline-block;
       cursor: pointer;
